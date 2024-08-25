@@ -1,2 +1,2 @@
-# Leetcode-EASY-
-Daily progress of my completing leetcode challenges - Easy Level
+# Leetcode-EASY-Level
+Daily progress of completing leet code challenges - Easy Level as a Beginner
