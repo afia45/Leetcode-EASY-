@@ -1,3 +1,5 @@
 # Leetcode-EASY-Level
-Daily progress of completing leet code challenges - Easy Level as a Beginner
-Experimenting with all solutions and approaches for each problems in C++
+<p>
+Daily progress of completing leet code challenges - Easy Level as a Beginner <br>
+Experimenting with all solutions and approaches for each problems in C++ 
+</p>
